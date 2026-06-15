@@ -30,7 +30,7 @@ CoinCompass is an Android personal finance management application built with **K
 * View goals in dashboard and transactions
 
 ###  Budget Overview
-
+* Set monthly minimum and maximum spending goals
 * Category-based spending analysis
 * Dynamic progress indicators
 * Real-time financial summaries
@@ -66,6 +66,8 @@ CoinCompass is an Android personal finance management application built with **K
 | Income Database Table  | ❌ Not Available | ✅ Added     |
 | Real-Time Balance      | ❌ Hardcoded     | ✅ Dynamic   |
 | Transaction Filters    | ❌ Not Available | ✅ Added     |
+| Calendar               | ❌ Not Available | ✅ Added     |
+| Gamification           | ❌ Not Available | ✅ Added     |
 
 ---
 
@@ -160,7 +162,10 @@ Add screenshots here:
 ![Splash Screen](screenshots/splash.png)
 ![Dashboard](screenshots/dashboard.png)
 ![Transactions](screenshots/transactions.png)
-![Add Expense](screenshots/add_expense.png)
+![Add Expense/income](screenshots/add_expense.png)
+![Calendar](screenshots/calendar.png)
+![gamification](screenshots/gamification.png)
+
 ```
 
 ---
