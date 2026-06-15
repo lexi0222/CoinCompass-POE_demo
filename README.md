@@ -159,6 +159,7 @@ source
 Add screenshots here:
 
 ```md
+<img src="https://github.com/lexi0222/CoinCompass-POE_demo/blob/010c168c65bf785c015d4a4e8e255eb66e7c7c65/WhatsApp%20Image%202026-06-15%20at%2013.00.13.jpeg">  
 ![splash](https://github.com/lexi0222/CoinCompass-POE_demo/blob/010c168c65bf785c015d4a4e8e255eb66e7c7c65/WhatsApp%20Image%202026-06-15%20at%2013.00.13.jpeg)
 ![Dashboard](screenshots/dashboard.png)
 ![Transactions](screenshots/transactions.png)
