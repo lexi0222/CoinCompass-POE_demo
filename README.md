@@ -159,7 +159,7 @@ source
 Add screenshots here:
 
 ```md
-![image alt](https://github.com/lexi0222/CoinCompass-POE_demo/blob/813da54674c6f0b3dcd60e867884681d1b7cbf80/WhatsApp%20Image%202026-06-15%20at%2013.00.13.jpeg)
+![alt text ](https://github.com/lexi0222/CoinCompass-POE_demo/blob/813da54674c6f0b3dcd60e867884681d1b7cbf80/WhatsApp%20Image%202026-06-15%20at%2013.00.13.jpeg)
 
 ![Dashboard](screenshots/dashboard.png)
 ![Transactions](screenshots/transactions.png)
